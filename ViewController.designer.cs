@@ -15,11 +15,11 @@ namespace CalculatorBMI
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UILabel bmiLabel { get; set; }
+        UIKit.UIButton BMIcal { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton calculateButton { get; set; }
+        UIKit.UILabel bmiLabel { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
@@ -29,20 +29,16 @@ namespace CalculatorBMI
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextField weightTextField { get; set; }
 
-        [Action ("UIButton390_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void UIButton390_TouchUpInside (UIKit.UIButton sender);
-
         void ReleaseDesignerOutlets ()
         {
+            if (BMIcal != null) {
+                BMIcal.Dispose ();
+                BMIcal = null;
+            }
+
             if (bmiLabel != null) {
                 bmiLabel.Dispose ();
                 bmiLabel = null;
-            }
-
-            if (calculateButton != null) {
-                calculateButton.Dispose ();
-                calculateButton = null;
             }
 
             if (heightTextfield != null) {

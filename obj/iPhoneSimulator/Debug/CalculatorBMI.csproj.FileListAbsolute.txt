@@ -1,9 +1,9 @@
 /Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/bin/iPhoneSimulator/Debug/CalculatorBMI.exe
 /Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/bin/iPhoneSimulator/Debug/CalculatorBMI.pdb
-/Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/CalculatorBMI.csproj.CoreCompileInputs.cache
-/Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/CalculatorBMI.exe
-/Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/CalculatorBMI.pdb
 /Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/ibtool/_BundleResourceWithLogicalName.items
 /Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_PartialAppManifest.items
 /Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/device-builds/iphone7.2-10.3.1/optimized/
+/Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/CalculatorBMI.csproj.CoreCompileInputs.cache
+/Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/CalculatorBMI.exe
+/Users/mayaa3/Desktop/repos/CalculatorBMI/CalculatorBMI/obj/iPhoneSimulator/Debug/CalculatorBMI.pdb

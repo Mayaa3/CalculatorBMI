@@ -15,7 +15,7 @@ namespace CalculatorBMI
         {
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nib.
-            calculateButton.TouchUpInside+= CalculateButton_TouchUpInside;
+            BMIcal.TouchUpInside+= CalculateButton_TouchUpInside;
         }
 
         void CalculateButton_TouchUpInside(object sender, EventArgs e)
